@@ -1,3 +1,3 @@
 # program for ptinting a statement
 
-print("Hello world again!")
+print("Git is awwesome!")
